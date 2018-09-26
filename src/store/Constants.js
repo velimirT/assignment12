@@ -1,0 +1,8 @@
+const constants = {
+	SELECT_ANSWER : "SELECT_ANSWER",
+	SUBMIT_SERVEY : "SUBMIT_SERVEY",
+	SURVEY_SUBMITTED : "SURVEY_SUBMITTED",
+	RESET_FLOWER : "RESET_FLOWER"
+}
+
+export default constants
